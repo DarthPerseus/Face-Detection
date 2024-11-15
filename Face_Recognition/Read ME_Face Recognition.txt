@@ -1,0 +1,6 @@
+Face Recognition
+
+YouTube video 
+follow the video if you want to learn how to install cmake and dlib library 
+
+Link: https://youtu.be/h6GSZ19yuXc?si=wwihOHs-vc5Oav1Z
